@@ -1,6 +1,6 @@
 # Welcome to AI Experts' GitHub profile 👋
 
-![Header](https://github.com/AIExperts/AIExperts/blob/main/assets/ai_experts.png)
+![Header](https://github.com/AIExpertsNO/.github/blob/main/profile/logo.gif?raw=true)
 
 AI Experts is a premier consultancy firm for Artificial Intelligence based in Norway. We're proud to host some of Norway's leading scientists in the field. We strive to transform industries, guiding them towards the adoption of next-generation technological solutions.
 
